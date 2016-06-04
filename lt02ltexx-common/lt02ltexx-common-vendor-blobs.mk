@@ -110,6 +110,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
+    vendor/samsung/lt02ltexx-common/proprietary/lib/libOmxVdec.so:system/lib/libOmxVdec.so \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libmercury.so:system/lib/libmercury.so \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
