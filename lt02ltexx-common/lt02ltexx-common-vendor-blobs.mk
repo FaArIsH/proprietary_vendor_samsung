@@ -140,7 +140,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lt02ltexx-common/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/lt02ltexx-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
-    vendor/samsung/lt02ltexx-common/proprietary/lib/libOmxVdec.so:system/lib/libOmxVdec.so \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libOmxAmrwbplusDec.so:system/lib/libOmxAmrwbplusDec.so \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libOmxEvrcDec.so:system/lib/libOmxEvrcDec.so \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
