@@ -50,7 +50,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/samsung/lt02ltexx-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/lt02ltexx-common/proprietary/bin/rild:system/bin/rild \
-    vendor/samsung/lt02ltexx-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/lt02ltexx-common/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libcordon.so:system/lib/libcordon.so \
     vendor/samsung/lt02ltexx-common/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
